@@ -13,4 +13,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/prama00z/leetcode/tree/master/0055-jump-game) |
+## Math
+|  |
+| ------- |
+| [0371-sum-of-two-integers](https://github.com/prama00z/leetcode/tree/master/0371-sum-of-two-integers) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0371-sum-of-two-integers](https://github.com/prama00z/leetcode/tree/master/0371-sum-of-two-integers) |
 <!---LeetCode Topics End-->
